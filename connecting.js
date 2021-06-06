@@ -1,1 +1,1 @@
-const kenan = 5;
+const kenan = 3;
