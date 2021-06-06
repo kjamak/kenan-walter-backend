@@ -1,1 +1,0 @@
-const kenan = 3;
